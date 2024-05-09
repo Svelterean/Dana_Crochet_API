@@ -1,0 +1,26 @@
+{
+  "name": "danacrochet",
+  "version": "1.0.0",
+  "description": "A e-store to sell crochets",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svelterean/Dana_Crochet_API.git"
+  },
+  "author": "Maximo <galarzajuanmaximo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Svelterean/Dana_Crochet_API/issues"
+  },
+  "homepage": "https://github.com/Svelterean/Dana_Crochet_API#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
